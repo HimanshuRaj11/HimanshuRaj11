@@ -58,7 +58,7 @@
 
 ### 📫 Connect with Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Raj-blue?logo=linkedin">]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu-raj-yadav-37b185252)) [<img src="https://img.shields.io/badge/Email-contact%40himanshu.com-red?logo=gmail">](mailto:himanshurajyadav11@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Raj-blue?logo=linkedin">]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu-raj-yadav-37b185252)) [<img src="https://img.shields.io/badge/Email-himanshurajyadav11%40gmail.com-red?logo=gmail">](mailto:himanshurajyadav11@gmail.com)
 
 ---
 
