@@ -17,7 +17,7 @@
 - 🤖 I work on projects involving **AI**, **Machine Learning**, and **Deep Learning**.
 
 ---
-<p align="center">
+<div align="center">
 ### 🛠️ Technologies & Tools
 
 | **Frontend** | **Backend** | **Database**  | **Languages** |
@@ -27,7 +27,7 @@
 | | | |  <img src="[https://img.icons8.com/color/48/c++.png](https://cdn-icons-png.flaticon.com/512/6132/6132222.png)"/> C++ |
 | | | |  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> Java |
 
-</p>
+</div>
 ---
 
 ### 🧠 Machine Learning & AI Skills
