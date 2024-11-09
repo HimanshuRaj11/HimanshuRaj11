@@ -17,16 +17,17 @@
 - 🤖 I work on projects involving **AI**, **Machine Learning**, and **Deep Learning**.
 
 ---
-
+<p align="center">
 ### 🛠️ Technologies & Tools
 
 | **Frontend** | **Backend** | **Database**  | **Languages** |
 |--------------|-------------|--------------|---------------|
 | <img src="https://img.icons8.com/color/48/nextjs.png"/> Next.js | <img src="https://img.icons8.com/color/48/nodejs.png"/> Node.js | <img src="https://img.icons8.com/color/48/mongodb.png"/> MongoDB | <img src="https://img.icons8.com/color/48/python.png"/> Python |
 | <img src="https://img.icons8.com/color/48/react-native.png"/> React.js | <img src="https://img.icons8.com/color/48/express.png"/> Express.js | <img src="https://img.icons8.com/color/48/redis.png"/> Redis | <img src="https://img.icons8.com/color/48/javascript.png"/> JavaScript |
-| | | |  <img src="https://img.icons8.com/color/48/c++.png"/> C++ |
+| | | |  <img src="[https://img.icons8.com/color/48/c++.png](https://cdn-icons-png.flaticon.com/512/6132/6132222.png)"/> C++ |
 | | | |  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> Java |
 
+</p>
 ---
 
 ### 🧠 Machine Learning & AI Skills
