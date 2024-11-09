@@ -24,8 +24,8 @@
 |--------------|-------------|--------------|---------------|
 | <img src="https://img.icons8.com/color/48/nextjs.png"/> Next.js | <img src="https://img.icons8.com/color/48/nodejs.png"/> Node.js | <img src="https://img.icons8.com/color/48/mongodb.png"/> MongoDB | <img src="https://img.icons8.com/color/48/python.png"/> Python |
 | <img src="https://img.icons8.com/color/48/react-native.png"/> React.js | <img src="https://img.icons8.com/color/48/express.png"/> Express.js | <img src="https://img.icons8.com/color/48/redis.png"/> Redis | <img src="https://img.icons8.com/color/48/javascript.png"/> JavaScript |
-| | | | | <img src="https://img.icons8.com/color/48/c++.png"/> C++ |
-| | | | | <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> Java |
+| | | |  <img src="https://img.icons8.com/color/48/c++.png"/> C++ |
+| | | |  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> Java |
 
 ---
 
@@ -47,7 +47,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuRaj11-GitHub&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuRaj11&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
