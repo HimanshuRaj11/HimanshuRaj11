@@ -16,8 +16,8 @@
 - 🖥️ I am skilled in **Python**, **JavaScript**, **C++**, and **Java**.
 - 🤖 I work on projects involving **AI**, **Machine Learning**, and **Deep Learning**.
 
-<p align="center">
 ---
+<p align="center">
   
   ### 🛠️ Technologies & Tools
 </p>
